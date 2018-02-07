@@ -26,15 +26,15 @@
   },
   "homepage": "https://github.com/wegolook/joi-ensure-array#readme",
   "devDependencies": {
-    "code": "^4.0.0",
+    "code": "^5.0.0",
     "joi": "^10.3.0",
-    "lab": "^14.1.1"
+    "lab": "^15.0.0"
   },
   "peerDependencies": {
     "joi": "^10.3.0"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": "^8.9.4"
   },
   "files": [
     "lib"
