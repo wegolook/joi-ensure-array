@@ -4,7 +4,7 @@
   "description": "Extends Joi.array() with ensure()",
   "main": "lib/index.js",
   "scripts": {
-    "test": "lab -v -D -c"
+    "test": "lab -v -c"
   },
   "repository": {
     "type": "git",
