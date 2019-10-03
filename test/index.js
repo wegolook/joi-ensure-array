@@ -2,11 +2,11 @@
 
 // Load modules
 
-const Lab = require('lab');
-const Code = require('code');
+const Lab = require('@hapi/lab');
+const Code = require('@hapi/code');
 
 const JoiEnsureArray = require('../');
-const Joi = require('joi').extend(JoiEnsureArray);
+const Joi = require('@hapi/joi').extend(JoiEnsureArray);
 
 // Test shortcuts
 
