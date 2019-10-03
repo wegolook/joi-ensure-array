@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/wegolook/joi-ensure-array#readme",
   "devDependencies": {
-    "code": "^5.0.0",
-    "joi": "^13.7.0",
-    "lab": "^15.0.0"
+    "@hapi/code": "^6.0.0",
+    "@hapi/joi": "^15.0.0",
+    "@hapi/lab": "^20.3.2"
   },
   "peerDependencies": {
-    "joi": ">=9.0.0 <14.0.0"
+    "@hapi/joi": ">=9.0.0 <16.0.0"
   },
   "engines": {
     "node": "^8.9.4"

@@ -6,7 +6,7 @@
 
 ```javascript
 // import and assignment
-const Joi = require('joi'); // use version ^10.3.0
+const Joi = require('joi'); // use version <16.0.0
 const joiEnsureArray = require('@wegolook/joi-ensure-array');
 const myJoi = Joi.extend(joiEnsureArray);
 
